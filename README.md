@@ -1,4 +1,4 @@
-# DecodeLabs Project 2 — Exploratory Data Analysis
+# Project 2 — Exploratory Data Analysis
 
 ## 📊 Project Overview
 
@@ -112,7 +112,7 @@ The identified high-value orders can also be examined separately to understand t
 
 ## 📂 Project Files
 
-- `DecodeLabs_Project2_EDA_Akash.ipynb` — Complete Google Colab EDA notebook
+- `DecodeLabs_Project2_EDA_Ayush.ipynb` — Complete Google Colab EDA notebook
 - `Project1_Cleaned.xlsx` — Cleaned dataset used for the analysis
 
 ## 👨‍💻 Project
