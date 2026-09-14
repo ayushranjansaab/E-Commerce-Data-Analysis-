@@ -2,7 +2,7 @@
 
 ## 📊 Project Overview
 
-This project was completed as part of the DecodeLabs Data Analytics Internship.
+This project was completed as part of Data Analytics project.
 
 The objective of Project 2 was to perform Exploratory Data Analysis (EDA) on a cleaned e-commerce order dataset and uncover meaningful patterns, trends, distributions, relationships, and potential outliers.
 
@@ -117,6 +117,6 @@ The identified high-value orders can also be examined separately to understand t
 
 ## 👨‍💻 Project
 
-**DecodeLabs Data Analytics Internship — Project 2**
+**Data Analytics Internship — Project 2**
 
 **Project:** Exploratory Data Analysis (EDA)
