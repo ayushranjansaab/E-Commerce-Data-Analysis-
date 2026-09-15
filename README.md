@@ -1,4 +1,4 @@
-# Project 2 — Exploratory Data Analysis
+# Project — Exploratory Data Analysis
 
 ## 📊 Project Overview
 
