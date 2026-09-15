@@ -4,7 +4,7 @@
 
 This project was completed as part of Data Analytics project.
 
-The objective of Project 2 was to perform Exploratory Data Analysis (EDA) on a cleaned e-commerce order dataset and uncover meaningful patterns, trends, distributions, relationships, and potential outliers.
+The objective of Project was to perform Exploratory Data Analysis (EDA) on a cleaned e-commerce order dataset and uncover meaningful patterns, trends, distributions, relationships, and potential outliers.
 
 ## 🎯 Project Objectives
 
