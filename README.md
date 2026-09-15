@@ -112,11 +112,11 @@ The identified high-value orders can also be examined separately to understand t
 
 ## 📂 Project Files
 
-- `DecodeLabs_Project2_EDA_Ayush.ipynb` — Complete Google Colab EDA notebook
+- `E-Commerce_Project_EDA_Ayush.ipynb` — Complete Google Colab EDA notebook
 - `Project1_Cleaned.xlsx` — Cleaned dataset used for the analysis
 
 ## 👨‍💻 Project
 
-**Data Analytics Internship — Project 2**
+**Data Analytics Internship — Project**
 
 **Project:** Exploratory Data Analysis (EDA)
